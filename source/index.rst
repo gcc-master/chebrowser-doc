@@ -13,7 +13,7 @@
 | **telegram group:** `@antidetect_chebrowser <https://t.me/antidetect_chebrowser>`_
 | **telegram channel:** `@antidetect_chebrowser_channel <https://t.me/antidetect_chebrowser_channel>`_
 | **telegram:** `@chebrowser <https://t.me/chebrowser>`_
-| **jabber:** gcc@bombolenath.site
+| **jabber:** `gcc@bombolenath.site`
 
 --------
 
@@ -29,4 +29,4 @@
 
 
 
-
+.. include:: yandex-metrika.rst

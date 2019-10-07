@@ -45,3 +45,6 @@ Proxifier инжектится во все процессы и процессы 
 
 Если у Вас в системе установлен proxifier и Вы наблюдаете ошибки при работе с che browser, то открючите proxifier и попробуйте перезапустить che browser.
 
+
+
+.. include:: yandex-metrika.rst

@@ -62,3 +62,6 @@ F.A.Q.
 .. figure:: images/disable-extension.png
 
 
+
+
+.. include:: yandex-metrika.rst

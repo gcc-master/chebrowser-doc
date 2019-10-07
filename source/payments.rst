@@ -9,3 +9,6 @@
 
 Ввод промо кода
 ---------------
+
+
+.. include:: yandex-metrika.rst
