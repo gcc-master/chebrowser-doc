@@ -1,5 +1,7 @@
 .. |HeavyCheckMark| unicode:: U+2714 .. галочка
 
+.. _customization:
+
 Кастомизации
 ============
 .. contents:: Содержание
