@@ -74,4 +74,30 @@ F.A.Q.
 Попробуйте лучше кастомизацию под bestbuy.com ;)
 
 
+
+Использование совместно с 911 proxy
+-----------------------------------
+
+В 911 настраиваем port forwarding
+
+- Port Forwading —  20000-20010
+- Proxy Tool — Other Proxy Tools
+
+.. figure:: images/911/911-port-forwarding.jpg
+
+Выбор socks5 proxy
+
+- кликаем правой кнопкой мыши
+- выбираем свободный порт
+
+.. figure:: images/911/911-set-forward.jpg
+
+В che browser в настройках socks5 proxy вписываем ip 127.0.0.1 и выбранный ранее порт.
+
+.. figure:: images/911/911-chebrowser.jpg
+
+
+
+
+
 .. include:: yandex-metrika.rst
