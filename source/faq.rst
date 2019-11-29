@@ -98,6 +98,33 @@ F.A.Q.
 
 
 
+Использование совместно с 911 proxy (Вариант #2)
+------------------------------------------------
+Данный вариант исключает утечку DNS и для его реализации Вам потребуется proxifire.
+
+- в 911 настраиваем port forwarding: 20000-20050
+- proxy port: custom (выставляется автоматически)
+- proxy settings: Proxifier standart edition
+- proxy rules: only "proxy" the applications in 911 s5 program tab, the others go through your local network
+- Выбор socks5 proxy
+- кликаем левой кнопкой мыши два раза
+
+.. figure:: images/911-2/1.png
+
+Во вкладке Program - выбираем наш браузер  (если его нет то добавляем +)
+
+.. figure:: images/911-2/2.png
+
+В che browser в настройках socks5 proxy вписываем ip 127.0.0.1 и выбранный ранее custom порт
+
+.. figure:: images/911-2/3.png
+
+Проверяем
+
+.. figure:: images/911-2/4.png
+
+
+
 
 
 .. include:: yandex-metrika.rst
